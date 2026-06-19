@@ -1,6 +1,6 @@
 <!-- VISUAL HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=MUHAMMAD%20AHMAD%20KHAN&fontSize=40&fontColor=00f2fe&height=160&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=MUHAMMAD%20AHMAD%20KHAN%SHERWANI&fontSize=40&fontColor=00f2fe&height=160&animation=twinkling" alt="Banner" />
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
@@ -15,7 +15,7 @@
 * 🎓 **Current State:** Pursuing my **BS in Data Science** in Lahore, Pakistan.
 * 💻 **The Foundation:** Built my core programming logic using **C++**. 
 * 🔄 **The Pivot:** Actively learning **Python** to bridge the gap into deep data analytics.
-* 🎯 **The Goal:** **Behavioral Data Science**. I haven't built my first behavioral project yet, but I am learning the tools right now to start mapping human choices and digital actions through data.
+* 🎯 **The Goal:** **Behavioral Data Science**. to solve world bigger problems.
 
 ---
 
@@ -23,7 +23,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
