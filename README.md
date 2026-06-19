@@ -1,4 +1,4 @@
-<h1 align="center"> Muhammad Ahmad Khan ⚡</h1>
+<h1 align="center">Hi, I'm Muhammad Ahmad Khan ⚡</h1>
 <h3 align="center">Decoding human behavior, one data point at a time.</h3>
 
 <p align="center">
@@ -19,8 +19,7 @@ I'm on a quest to merge raw computation with human psychology. My roots are in *
 
 ### 📊 The Stats
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME below with your exact GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmykhan&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 🔗 Jack Into The Matrix
