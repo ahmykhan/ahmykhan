@@ -1,6 +1,6 @@
 <!-- VISUAL HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=MUHAMMAD%20AHMAD%20KHAN%SHERWANI&fontSize=40&fontColor=00f2fe&height=160&animation=twinkling" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&text=MUHAMMAD%20AHMAD%20KHAN%20SHERWANI&fontSize=40&fontColor=00f2fe&height=160&animation=twinkling" alt="Banner" />
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
